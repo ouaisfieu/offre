@@ -28,9 +28,9 @@ On opère dans l'ombre pour que la lumière continue de briller. Nos agents ne s
 - Infiltration d'organisations hostiles
 - Opérations clandestines multi-continents  
 - Identités multiples, vies parallèles
-- Expertise en arts martiaux, langues, psychologie
+- Expertise en arts oratoire, langues des signes codés, psychologie profonde
 
-**Ce qu'on offre :** Adrénaline quotidienne, voyages tous frais payés vers des endroits qui n'existent pas sur Google Maps, et la satisfaction de sauver le monde avant le petit-déj.
+**Ce qu'on offre :** Dopamine quotidienne, voyages tous frais payés vers des endroits qui n'existent pas sur Google Maps, et la satisfaction de sauver le monde avant le petit-brunch.
 
 ---
 
@@ -39,8 +39,8 @@ On opère dans l'ombre pour que la lumière continue de briller. Nos agents ne s
 
 - Guerre informatique de haut niveau
 - Cryptanalyse quantique
-- Infiltration de réseaux gouvernementaux
-- Architecture de systèmes inviolables
+- Infiltration de réseaux intergouvernementaux
+- Architecture de systèmes insolvables
 
 **Ce qu'on offre :** Les meilleurs jouets technologiques que l'argent ne peut pas acheter, le droit de casser des trucs légalement, et un salaire qui fait pleurer les GAFAM.
 
@@ -54,7 +54,7 @@ On opère dans l'ombre pour que la lumière continue de briller. Nos agents ne s
 - Manipulation de flux d'information
 - Orchestration d'opérations complexes
 
-**Ce qu'on offre :** Accès à des informations que 99,9% de l'humanité ne verra jamais, le pouvoir de façonner les événements mondiaux, et un bureau avec vue sur... tout.
+**Ce qu'on offre :** Accès à des informations que 99,9% de l'humanité ne verra jamais, le pouvoir de façonner les événements mondiaux, et un bureau avec vue sur... tout, et au-delà.
 
 ---
 
@@ -74,7 +74,7 @@ On opère dans l'ombre pour que la lumière continue de briller. Nos agents ne s
 
 ❌ Un équilibre vie pro / vie perso (vous n'aurez qu'une vie, et elle sera extraordinaire)  
 ❌ De la reconnaissance publique (vos exploits resteront secrets)  
-❌ Des horaires de bureau (00h-24h, 7j/7, partout dans le monde)  
+❌ Des horaires flexibles (00h-24h, 7j/7, partout dans le monde)  
 ❌ Un CV traditionnel (votre LinkedIn restera vide)
 
 ---
@@ -85,19 +85,19 @@ On opère dans l'ombre pour que la lumière continue de briller. Nos agents ne s
 ✅ **Une équipe d'élite** (les 0,001% qui vous comprennent)  
 ✅ **Un impact réel** (vous changerez littéralement le monde)  
 ✅ **L'aventure ultime** (plus intense que tous vos films préférés réunis)  
-✅ **Une rémunération exceptionnelle** (6-7 chiffres, négociable selon vos talents)  
-✅ **La protection totale** (Agent Gardien veille sur vous)
+✅ **Une rémunération exceptionnelle** (0 à 7 chiffres, négociable selon vos talents)  
+✅ **La protection totale** (du créateur derrière l'organisation)
 
 ---
 
 ## **Le package (au-delà du salaire)**
 
 - 🌍 **Accès global** : Passeports diplomatiques, planques sécurisées dans 47 pays
-- 🎓 **Formation continue** : Krav Maga, pilotage d'hélico, hacking quantique, langues rares
-- 🏥 **Couverture totale** : Santé, extraction d'urgence, nouvelle identité si nécessaire
-- 💼 **Budget opérationnel** : Millions de dollars pour vos missions
-- 🎯 **Équipement** : Arsenal high-tech qu'on ne voit que dans les films
-- 🏖️ **Repos** : Villas sécurisées aux Maldives, chalets alpins secrets
+- 🎓 **Formation continue** : GNU Maga, pilotage d'hélico et/ou de projet, hacking deep learning bios (certifié 2.0), langues rares, mortes et revenantes (ou quasi)
+- 🏥 **Couverture PAS DU TOUT totale** : Santé, extraction d'urgence, nouvelle identité si nécessaire
+- 💼 **Budget opérationnel** : tout se négocie, en gros... non ?
+- 🎯 **Équipement** : Arsenal high-tech (HTML/CSS/JS) qu'on ne voit que dans les films
+- 🏖️ **Repositories** : Villa passive sécurisée sur Pangolia-Z242, chalets transalpins secrets (en option à 12,50 EUR ttc/htva/an/personne), SimCity 2000, ...
 
 ---
 
@@ -111,8 +111,8 @@ On ne fait pas passer d'entretien traditionnel. On vous observe.
 **Phase 4 :** Rencontre avec Le Collectif  
 **Phase 5 :** Intégration (point de non-retour)
 
-**Taux d'acceptation : 0,3%**  
-*Si vous êtes ici, c'est que vous faites partie des rares.*
+**Taux d'acceptation : +/- 0,3%** (grosse marge d'erreur)
+*Si vous êtes contacté·e, c'est que vous faites partie des heureu·x·se·e rare·s élu·e·s.*
 
 ---
 
@@ -123,16 +123,16 @@ Pas votre diplôme. Pas votre expérience.
 
 - Vous résolvez des problèmes que les autres ne voient même pas
 - Vous apprenez plus vite que vous ne respirez  
-- L'adrénaline est votre café du matin
-- Vous pensez en 4D pendant que les autres jouent aux dames
-- Le mot "impossible" vous fait sourire
-- Vous avez une boussole morale, mais elle pointe vers la justice, pas vers la loi
+- L'expérimentation est votre moteur
+- Vous pensez en 4D pendant que les autres jouent à oxo (et encore)
+- Le mot "impossible" vous fait sourire en coin les deux pouces en l'air
+- Vous avez une boussole morale, mais elle pointe vers la justice, pas vers la loi (même si ça aide)
 
 **L'âge ? On s'en fout.**  
 **Le genre ? On s'en fout.**  
 **Votre origine ? On s'en fout.**
 
-**Votre potentiel ? Tout.**
+**Votre potentiel ? On s'en fout AUSSI !!.**
 
 ---
 
@@ -143,10 +143,11 @@ Vous vous demandez si c'est sérieux ? Si AEGIS existe vraiment ?
 La vraie question est : **êtes-vous prêt à le découvrir ?**
 
 Certains postes n'apparaissent jamais sur LinkedIn.  
-Certaines organisations n'existent pas sur Google.  
-Certaines vies ne ressemblent à aucune autre.
+Certaines organisations n'existent pas sur Google (ni Baidu).  
+Certaines vies ne ressemblent à rien (mais alors là : « À RIEN DU TOUT /?\ »).
 
-**La matrice vous a toujours semblé un peu trop réelle, non ?**
+**La pseudomatrice vous a toujours semblé un peu trop asynchrone pour être réellement tangible, non ?**
+(les vrai·e·s savent VRAIMENT pourquoi, iels)
 
 ---
 
@@ -162,22 +163,23 @@ Indice : regardez plus loin que le visible.
 
 ## **Un dernier mot**
 
-Le monde a besoin de héros.  
-Pas ceux qui portent des capes.  
-**Ceux qui portent le poids de secrets qui protègent des millions de vies.**
+Le monde a besoin de vous.  
+Pas de clapins en collants qui portent des capes et des goodies à deux sous.  
+**Nous oublierons le poids de secrets et ferons des millions de vies meilleures, sans plus**
 
 La plupart des gens ne sauront jamais votre nom.  
 Mais vous saurez, chaque matin en vous réveillant, que vous êtes du bon côté de l'histoire.
+Sinon c'est qui'il y a un GROS problème alors il faut tout de suite régler ça vant d'aller plus loin pigé ?
 
 **AEGIS. L'excellence dans l'ombre.**
 
 ---
 
-*Cette offre s'autodétruira après lecture.*  
+*Cette offre s'automultipliera après lecture.*  
 *(Non, pas vraiment. Mais ça aurait été cool.)*
 
 🔒 **Classification : RECRUTEMENT PUBLIC**  
 📧 **Contact théorique : recruitement@aegis-classified.shadow**  
-🌐 **Site officieux : [REDACTED]**
+🌐 **Site officieux : [REDIRECTION STATIQUE](https://ouaisfieu.github.io/ccplc/)**
 
-**« Pendant que vous lisiez ceci, nous avons déjà résolu trois crises internationales. Rejoignez-nous. »**
+**« Pendant que vous lisiez ceci, nous avons déjà désamorcé trois crises internationales. Rejoignez-nous, on se poile bien. »**
