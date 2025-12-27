@@ -10,13 +10,13 @@
 
 Le Guide te souhaite personnellement la bienvenue
 ·
-
+![coin.png](https://dl.ouaisfi.eu/images/guide.png)
 
 > Si tu penses ne pas te faire pigeonner, tu peux passer ton chemin.
 
 Le Guide te donne ton jeton de présence, tu en fais ce que tu veux
 
-![coin.png](https://dl.ouaisfi.eu/images/guide.png)
+![coin.png](https://dl.ouaisfi.eu/images/coin.png)
 Le Guide te pose une question avant d'y répondre lui-même, ce qui est pas vraiment son meilleur move mais bon…
 
 ```groovy
