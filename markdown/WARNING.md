@@ -1,7 +1,10 @@
-# Alerte Fiction Réaliste Improbable mais Tangible
+# Alerte Fiction Réaliste
+## Improbable
+### mais Tangible
 
 > Alerte à l'AFRIT donc ?
-> [[SOS Samouraï]] aussi non ?
+> [SOS Samouraï](https://dl.ouaisfieu/haha) aussi non ?
+> 
 ---
 
 /!\ Ce site mélange des éléments d'univers divers tels que :
@@ -23,17 +26,47 @@ En faisant comme si c'était normal ! Avec des images sympas entre les atrocité
 
 Allez alors, encore une minute. Mais il faudrait un avertissement concernant la [dissonance cognitive](https://fr.wikipedia.org/wiki/Dissonance_cognitive) et le [consentement éclairé](https://fr.wikipedia.org/wiki/Consentement_libre_et_%C3%A9clair%C3%A9) des personnes qui viendront ici. Histoire que si ça fout le brun dans leur matière grise on soit couverts comme éthiquement irresponsable.
 
-# Un coup de warning jamais n'abolira le cafard
+# Un coup de WARNING jamais n'abolira le cafard, #lol
 
 > Mais en vrai ça va ?
 
-Mais oui en vrai ça va : [[Un coup de dés]] ?
+Mais oui qu'en vrai ça va...
+`'Faut faire avec'`
 
 ```markdown
 
-/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ *Il y a un côté très niais* /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ **Et un autre très brutal** /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ * Désolé d'avance pour les contenus choquants * /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ **SANS le RECUL NÉCESSAIRE** /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ *la confusion entre réalité et fiction* /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\  **NUIT GRAVEMENT** /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ à la **SANTÉ MENTALE** /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ **Il y a un côté très niais** /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ **Et un autre très brutal** /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\**Désolé d'avance pour les contenus**/!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ **ULTRA CHOQUANTS** /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ **SANS le RECUL NÉCESSAIRE** /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ *la confusion entre réalité et fiction* /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\  **NUIT GRAVEMENT** /!\ /!\ /!\
+/!\ /!\ /!\ à la **SANTÉ  MENTALE** /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
 
-On aimerait bien décliner toutes responsabilités, mais ça ne dépend pas que de notre volonté. Et c'est plus facile à écrire qu'à faire.
+On aimerait bien décliner toutes responsabilités,
+mais ça ne dépend pas que de notre volonté.
+Et c'est plus facile à écrire qu'à faire.
+
 ```
 
 
