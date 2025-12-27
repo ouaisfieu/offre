@@ -10,7 +10,7 @@
 
 Le Guide te souhaite personnellement la bienvenue
 ·
-![[guide.png]]
+
 
 > Si tu penses ne pas te faire pigeonner, tu peux passer ton chemin.
 
