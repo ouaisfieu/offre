@@ -3,7 +3,7 @@
 ### mais Tangible
 
 > Alerte à l'AFRIT donc ?
-> [SOS Samouraï](https://dl.ouaisfieu/haha) aussi non ?
+> [SOS Samouraï](https://dl.ouaisfi.eu/haha) aussi non ?
 > 
 ---
 
