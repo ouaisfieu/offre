@@ -121,9 +121,12 @@ C’est un genre qui flirte avec des œuvres comme celles d’**Albert Camus** (
 Si c’est une fiction conspirationniste qui provoque des chocs émotionnels, on entre dans une zone où l’improbable devient **une distorsion volontaire du réel**, jouant sur la peur, la fascination et parfois la paranoïa. Ce type de fiction repose sur des théories du complot absurdes mais racontées de manière si immersive qu’elles suscitent une réaction viscérale, comme si elles **pourraient être vraies… si tout partait de travers.**
 
 
-![[theEndRept.png]]
+![theEndRept.png]
+
 ```groovy
-Dino sur le retour ou Reptilien drama queen ?
+Vous penchez plutôt :
++ Dino sur le retour ?
++ ou Reptilien drama queen ?
 ```
 
 
