@@ -6,34 +6,26 @@
 
 ### Notre Vision pour un Secteur Renforcé par le Pouvoir d'Agir Citoyen
 
-Dans un secteur socioculturel et d'Éducation permanente en constante évolution,
-la capacité des individus et des collectifs à comprendre leur environnement et à
-agir en conséquence est plus déterminante que jamais. Notre conviction est que le
-pouvoir d'agir naît de la transformation des données brutes en information contextualisée,
+Dans un secteur socioculturel et d'Éducation permanente en constante évolution, la capacité des individus et des collectifs à comprendre leur environnement et à agir en conséquence est plus déterminante que jamais. Notre conviction est que le pouvoir d'agir naît de la transformation des données brutes en information contextualisée,
 puis en connaissance qui guide l'action. 
 
-Ce processus transforme la simple observation en une prise de décision éclairée et,
-in fine, en une action transformatrice. 
+Ce processus transforme la simple observation en une prise de décision éclairée et, in fine, en une action transformatrice. 
 
-C'est sur ce principe que repose notre vision d'un secteur renforcé,
-où chaque acteur dispose des moyens de sa propre autonomie.
+C'est sur ce principe que repose notre vision d'un secteur renforcé, où chaque acteur dispose des moyens de sa propre autonomie.
 
 C'est dans cet esprit qu'a été fondé notre collectif.
 
-Le Collectif Citoyen pour la Participation Libre & Consciente (CCPLC),
-un collectif ouvert d'habitants de Wallonie-Bruxelles engagés pour une démocratie vivante.
+Le Collectif Citoyen pour la Participation Libre & Consciente (CCPLC), un collectif ouvert d'habitants de Wallonie-Bruxelles engagés pour une démocratie vivante.
 
-Notre mission est simple et ambitieuse :
+## Notre mission est simple et ambitieuse :
+
 « documenter, mutualiser et transmettre tout ce qui favorise l'empowerment citoyen ». 
 
-Nous croyons qu'une démocratie saine se nourrit d'informations ouvertes et d'actions partagées,
-accessibles à toutes et tous.
+Nous croyons qu'une démocratie saine se nourrit d'informations ouvertes et d'actions partagées, accessibles à toutes et tous.
 
 Ce document présente notre offre de service unique, conçue pour nos partenaires du secteur socioculturel.
 
-Elle vise un double objectif : anticiper les besoins en ressources humaines à l'horizon 2030 en constituant
-dès aujourd'hui une réserve de recrutement qualifiée, tout en apportant une valeur ajoutée immédiate
-à vos projets grâce à un partenariat méthodologique et opérationnel bénévole. 
+Elle vise un double objectif : anticiper les besoins en ressources humaines à l'horizon 2030 en constituant dès aujourd'hui une réserve de recrutement qualifiée, tout en apportant une valeur ajoutée immédiate à vos projets grâce à un partenariat méthodologique et opérationnel bénévole. 
 
 Pour y parvenir, nous nous appuyons sur une philosophie d'action qui garantit:
 
@@ -49,14 +41,13 @@ Pour y parvenir, nous nous appuyons sur une philosophie d'action qui garantit:
 
 ### L'Autonomie Guidée par la Mission
 
-L'efficacité du Collectif Citoyen pour la Participation Libre & Consciente (CCPLC)
-repose sur une culture organisationnelle qui valorise l'autonomie,la confiance et l'initiative.
+L'efficacité du Collectif Citoyen pour la Participation Libre & Consciente (CCPLC) repose sur une culture organisationnelle qui valorise l'autonomie,la confiance et l'initiative.
 
-Inspirée de modèles éprouvés dans des contextes exigeants, notre approche privilégie une structure
-décentralisée où chaque membre est encouragé à prendre des décisions éclairées au service d'un objectif commun.
+Inspirée de modèles éprouvés dans des contextes exigeants, notre approche privilégie une structure décentralisée où chaque membre est encouragé à prendre des décisions éclairées au service d'un objectif commun.
+
 Cette philosophie est ancrée dans les principes de l'Auftragstaktik, ou commandement par mission.
 
-Les fondements de cette approche peuvent être résumés comme suit :
+### Les fondements de cette approche :
 
 * L'Intention Commune : Le principe fondamental est de formuler clairement l'objectif à atteindre et le but global, sans imposer la manière d'y arriver. Cette intention partagée sert de boussole commune et garantit que toutes les initiatives locales, même les plus autonomes, convergent vers le même résultat.
 * L'Autonomie et l'Initiative Locale : Les personnes sur le terrain disposent d'une large autonomie de décision. Elles sont encouragées à prendre des initiatives pour s'adapter aux circonstances et exploiter les opportunités, augmentant ainsi la réactivité et la capacité d'adaptation de l'ensemble du collectif.
