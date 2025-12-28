@@ -58,7 +58,13 @@ Le CCPLC transpose ces principes dans un cadre associatif en favorisant un fonct
 
 "Il s'agit en définitive de faire confiance aux personnes sur le terrain [...] et de leur donner les moyens d’agir de leur propre initiative pour atteindre un objectif collectif."
 
-Pour nos partenaires, cette philosophie se traduit par une collaboration d'une agilité et d'une pertinence rares. Nos collaborations ne sont pas ralenties par des validations hiérarchiques rigides. Les solutions émergent du terrain, en dialogue direct avec vos équipes, garantissant une réactivité que les modèles traditionnels ne peuvent offrir. C'est le gage d'un partenariat résilient, capable de s'adapter en temps réel à vos enjeux et de construire ensemble des solutions pertinentes, en alignement constant avec notre mission partagée.
+Pour nos partenaires, cette philosophie se traduit par une collaboration d'une agilité et d'une pertinence rares. 
+
+Nos collaborations ne sont pas ralenties par des validations hiérarchiques rigides. 
+
+Les solutions émergent du terrain, en dialogue direct avec vos équipes, garantissant une réactivité que les modèles traditionnels ne peuvent offrir. 
+
+C'est le gage d'un partenariat résilient, capable de s'adapter en temps réel à vos enjeux et de construire ensemble des solutions pertinentes, en alignement constant avec notre mission partagée.
 
 
 --------------------------------------------------------------------------------
@@ -66,23 +72,32 @@ Pour nos partenaires, cette philosophie se traduit par une collaboration d'une a
 
 ## 3. Notre Proposition de Valeur : Une Alliance Stratégique pour le Secteur
 
-Notre offre de service se décline en une solution à double détente, conçue pour répondre à la fois aux enjeux stratégiques à long terme du secteur socioculturel et à ses défis opérationnels immédiats. Nous proposons une alliance qui renforce vos capacités dès aujourd'hui tout en préparant activement les ressources humaines de demain.
+Notre offre de service se décline en une solution à double détente, conçue pour répondre à la fois aux enjeux stratégiques à long terme du secteur socioculturel et à ses défis opérationnels immédiats. 
+
+Nous proposons une alliance qui renforce vos capacités dès aujourd'hui tout en préparant activement les humain·e·s de demain.
 
 ### 3.1. Volet 1 : Constitution d'une Réserve de Recrutement Qualifiée (Horizon 2030)
 
-Le CCPLC a lancé un projet ambitieux : la constitution d'une réserve de recrutement visant à pourvoir 42 équivalents temps plein (ETP) d'ici 2030. Nous entamons ce processus dès maintenant, convaincus que les collaborations les plus fructueuses se construisent dans la durée.
+Le CCPLC a lancé un projet ambitieux : la constitution d'une réserve de recrutement visant à pourvoir 42 équivalents temps plein (ETP) d'ici 2030. 
 
-La logique de cette "réserve" est de permettre aux futurs collaborateurs potentiels et aux organisations du secteur de se connaître en amont, d'échanger et de tester des projets ensemble. Ce temps long garantit une adéquation parfaite entre les profils, les compétences et, surtout, les valeurs partagées. Il s'agit de remplacer le recrutement transactionnel par une véritable rencontre, un engagement éclairé et mutuel.
+Nous entamons ce processus dès maintenant, convaincus que les collaborations les plus fructueuses se construisent dans la durée.
+
+La logique de cette "réserve" est de permettre aux futurs collaborateurs potentiels et aux organisations du secteur de se connaître en amont, d'échanger et de tester des projets ensemble. 
+
+Ce temps long garantit une adéquation parfaite entre les profils, les compétences et, surtout, les valeurs partagées. 
+
+Il s'agit de remplacer le recrutement transactionnel par une véritable rencontre, un engagement éclairé et mutuel.
 
 Les profils que nous cherchons à rassembler sont variés et couvrent l'ensemble des compétences nécessaires au secteur.
 
-Famille de Profils	Exemples de Compétences et Métiers
-Veille & Analyse	Chercheur·euse·s (sciences sociales, droit public), documentalistes, journalistes d'investigation, analystes de politiques publiques.
-Communication & Pédagogie	Rédacteur·rice·s web, spécialistes du langage clair, formateur·rice·s, animateur·rice·s d'ateliers, vulgarisateurs·rice·s.
-Technique & Numérique	Développeur·euse·s web, spécialistes open data, designers UX/UI, administrateur·rice·s systèmes, expert·e·s en logiciels libres.
-Animation & Terrain	Facilitateur·rice·s d'intelligence collective, médiateur·rice·s sociaux, organisateur·rice·s communautaires, militant·e·s expérimenté·e·s.
-Coordination & Gestion	Chef·fe·s de projet associatif, gestionnaires administratifs et financiers, spécialistes en financements publics, juristes.
-Création & Design	Graphistes, illustrateur·rice·s, vidéastes, podcasteur·euse·s, artistes engagé·e·s dans les pratiques participatives.
+#### Famille de Profils	Exemples de Compétences et Métiers
+
+- Veille & Analyse	Chercheur·euse·s (sciences sociales, droit public), documentalistes, journalistes d'investigation, analystes de politiques publiques.
+- Communication & Pédagogie	Rédacteur·rice·s web, spécialistes du langage clair, formateur·rice·s, animateur·rice·s d'ateliers, vulgarisateurs·rice·s.
+- Technique & Numérique	Développeur·euse·s web, spécialistes open data, designers UX/UI, administrateur·rice·s systèmes, expert·e·s en logiciels libres.
+- Animation & Terrain	Facilitateur·rice·s d'intelligence collective, médiateur·rice·s sociaux, organisateur·rice·s communautaires, militant·e·s expérimenté·e·s.
+- Coordination & Gestion	Chef·fe·s de projet associatif, gestionnaires administratifs et financiers, spécialistes en financements publics, juristes.
+- Création & Design	Graphistes, illustrateur·rice·s, vidéastes, podcasteur·euse·s, artistes engagé·e·s dans les pratiques participatives.
 
 Initialement destinée au secteur de l'Éducation permanente, cette réserve a pour ambition de s'élargir à l'ensemble des organisations relevant de la Commission Paritaire 329.02, afin de créer un vivier de talents pour notre écosystème.
 
@@ -92,23 +107,33 @@ En attendant l'ouverture des postes salariés à l'horizon 2030, le CCPLC et les
 
 Ce soutien s'articule autour de nos quatre piliers d'action fondamentaux :
 
-OBSERVER
+#### OBSERVER
 
-Nous assurons une veille stratégique sur des thématiques clés comme la participation citoyenne, les innovations démocratiques et les évolutions du secteur de l'éducation permanente. Ce travail d'analyse permet de fournir à nos partenaires des éclairages pertinents pour orienter leur action.
+Nous assurons une veille stratégique sur des thématiques clés comme la participation citoyenne, les innovations démocratiques et les évolutions du secteur de l'éducation permanente. 
 
-DOCUMENTER
+Ce travail d'analyse permet de fournir à nos partenaires des éclairages pertinents pour orienter leur action.
 
-Notre mission est de démocratiser l'accès à l'information. Nous transformons des données brutes ou des informations complexes en contenus accessibles, réutilisables et publiés sous licence libre non commerciale (CC BY-NC 4.0), tels que des rapports, des guides ou des jeux de données.
+#### DOCUMENTER
 
-FORMER
+Notre mission est de démocratiser l'accès à l'information. 
 
-Nous concevons et animons des ateliers, des webinaires et des tutoriels visant à renforcer le pouvoir d'agir citoyen. Nos formations couvrent des compétences essentielles comme la recherche d'information, l'analyse critique ou la publication web.
+Nous transformons des données brutes ou des informations complexes en contenus accessibles, réutilisables et publiés sous licence libre non commerciale (CC BY-NC 4.0), tels que des rapports, des guides ou des jeux de données.
 
-CONNECTER
+#### FORMER
 
-Nous agissons comme un facilitateur en mettant en réseau des citoyen·ne·s, des associations et des collectivités autour de projets concrets. Nous facilitons l'engagement en partageant des outils, des formations et des retours d'expérience.
+Nous concevons et animons des ateliers, des webinaires et des tutoriels visant à renforcer le pouvoir d'agir citoyen. 
 
-Ensemble, ces quatre piliers forment un écosystème de soutien complet : nous identifions les enjeux, nous les rendons compréhensibles, nous outillons les acteurs pour y répondre et nous créons les alliances nécessaires pour une action collective efficace. Pour matérialiser ces piliers, nous développons et mettons à disposition des outils concrets, conçus pour renforcer l'autonomie et l'efficacité de nos partenaires.
+Nos formations couvrent des compétences essentielles comme la recherche d'information, l'analyse critique ou la publication web.
+
+#### CONNECTER
+
+Nous agissons comme un facilitateur en mettant en réseau des citoyen·ne·s, des associations et des collectivités autour de projets concrets. 
+
+Nous facilitons l'engagement en partageant des outils, des formations et des retours d'expérience.
+
+Ensemble, ces quatre piliers forment un écosystème de soutien complet : nous identifions les enjeux, nous les rendons compréhensibles, nous outillons les acteurs pour y répondre et nous créons les alliances nécessaires pour une action collective efficace.
+
+Pour matérialiser ces piliers, nous développons et mettons à disposition des outils concrets, conçus pour renforcer l'autonomie et l'efficacité de nos partenaires.
 
 
 --------------------------------------------------------------------------------
@@ -116,11 +141,19 @@ Ensemble, ces quatre piliers forment un écosystème de soutien complet : nous i
 
 ## 4. Nos Outils au Service de l'Action Collective
 
-Conformément à notre philosophie d'éducation populaire, nous considérons que les bons outils sont ceux qui renforcent l'autonomie cognitive et stratégique des acteurs. Notre philosophie d'autonomie guidée par la mission n'est pas qu'un principe organisationnel ; elle se matérialise dans les outils que nous créons. mySPOT est conçu pour que chaque collectif puisse s'approprier cette autonomie stratégique et agir en connaissance de cause. C'est pourquoi le CCPLC conçoit et promeut des communs numériques sobres, puissants et éthiques, pensés pour l'analyse, la structuration de stratégies et le passage à l'action.
+Conformément à notre philosophie d'éducation populaire, nous considérons que les bons outils sont ceux qui renforcent l'autonomie cognitive et stratégique des acteurs. 
 
-Notre principal outil, mySPOT (Strategic Planning & Organization Tool), incarne cette approche. C'est un véritable tableau de bord de réflexion stratégique conçu pour aider les collectifs à cartographier, analyser et piloter des situations complexes.
+Notre philosophie d'autonomie guidée par la mission n'est pas qu'un principe organisationnel ; elle se matérialise dans les outils que nous créons. 
 
-mySPOT : Un Cerveau Externe pour l'Action Collective
+mySPOT est conçu pour que chaque collectif puisse s'approprier cette autonomie stratégique et agir en connaissance de cause.
+
+C'est pourquoi le CCPLC conçoit et promeut des communs numériques sobres, puissants et éthiques, pensés pour l'analyse, la structuration de stratégies et le passage à l'action.
+
+Notre principal outil, mySPOT (Strategic Planning & Organization Tool), incarne cette approche. 
+
+C'est un tableau de bord de réflexion stratégique conçu pour aider les collectifs à cartographier, analyser et piloter des situations complexes.
+
+### Un Cerveau Externe pour l'Action Collective
 
 * Sa philosophie : Reprendre du pouvoir cognitif sur des systèmes complexes. L'outil repose sur un principe simple mais puissant :
 * Ses principes éthiques : mySPOT a été conçu pour garantir une autonomie totale à ses utilisateurs. Son fonctionnement est :
